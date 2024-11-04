@@ -43,7 +43,7 @@ To learn more about how **cloudGlow** can help your organization streamline Entr
 
 ## 📫 Contact Us
 
-<img height=200 src="[https://github.com/user-attachments/assets/cf07d2a3-8588-4836-b442-c343f59a784f](https://github.com/user-attachments/assets/a0eacad0-323a-425c-bc53-9424afdcb79a)" />
+<img height=200 src="https://github.com/user-attachments/assets/a0eacad0-323a-425c-bc53-9424afdcb79a" />
 
 Have questions or need support? Feel free to reach out to us:
 
